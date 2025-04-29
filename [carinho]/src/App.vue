@@ -32,7 +32,7 @@
           <li><a href="#">Cadastro</a></li>
 
           <div class="divisao">  </div>
-          
+
           <li><a href="#">carinho</a></li>
         </ul>
       </nav>
@@ -91,13 +91,52 @@
       </section>
 
       <div class="linha3"></div>
+
         <section class="comics">
+
+          <h1>
+            Lansamentos novos
+          </h1>
           <div class="quadrinhos">
 
-        
-         
-        
+            <nav>
+
+              <ul class="ajuste" >
+
+                <li>
+                  <img src="/public/images/images.jpeg" alt="#">
+
+                  <h3>Invencible</h3>
+
+                  <p>Robert Kirkman</p>
+
+                  <a href="#">Compra</a>
+
+                </li>
+
+
+                <li>
+                  <img src="/public/images/images (1).jpeg" alt="#">
+                  <h3>Guerra civil</h3>
+                  <p>Stanley Martin Lieber</p>
+
+                  <a href="#">Compra</a>
+
+                </li>
+                <li>
+                    <img src="/public/images/images (2).jpeg" alt="#">
+
+                    <h3>Homem aranha</h3>
+
+                    <p>Stanley Martin Lieber</p>
+
+                    <a href="#">Compra</a>
+                </li>
+              </ul>
+            </nav>
+
           </div>
+
         </section>
         <footer>
 
